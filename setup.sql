@@ -5,3 +5,5 @@ CREATE TABLE `Person` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 commit;
+
+--
